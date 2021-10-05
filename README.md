@@ -34,3 +34,15 @@ mappConnectClient.sendUser("{\"email\":\"test@xx.xx\"}");
 
 
 Each operation can be triggered by sendXxxx method on the client, for now each of them expects the full JSON payload to be provided as an argument.
+
+*Email
+
+*Sms
+
+*Push
+
+*Transaction
+
+*Automation
+
+## Check list of API's in right menu to check required fields for every event.
